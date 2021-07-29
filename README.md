@@ -10,12 +10,17 @@ Projeto consiste em uma aplicação front-end que liga e desliga um LED (pode se
 - [Node.js](https://nodejs.org/en/)
 - [Johnny-Five](http://johnny-five.io/)
 - [Arduino + Firmata](https://www.arduino.cc/en/software)
+- [Firebase Realtime Database](https://firebase.google.com/products/realtime-database)
 
 ## Instalação
 
 ```bash
 npm install
 ```
+## Configurando Firebase
+Editar o arquivo de configuração com as informações de integração do firebase.
+>api/config/index.js
+
 
 ## Comandos
 
@@ -58,3 +63,6 @@ true
 - [Vue.js](http://vuejs.org/guide/)
 - [Johnny-Five](http://johnny-five.io/api/)
 - [Firmata](https://www.arduino.cc/en/reference/firmata)
+
+## Tutorial
+[YouTube](https://www.arduino.cc/en/reference/firmata)
