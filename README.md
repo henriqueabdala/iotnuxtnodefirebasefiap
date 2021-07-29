@@ -23,6 +23,7 @@ npm install
 |---------|-------------|
 | npm run build | Buildar o projeto |
 | npm start | Inicializar o projeto |
+
 O projeto por padrão é inicializado em [http://localhost:3000/](http://localhost:3000/)
 
 
