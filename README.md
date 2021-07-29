@@ -17,12 +17,14 @@ Projeto consiste em uma aplicação front-end que liga e desliga um LED (pode se
 npm install
 ```
 
-## Commands
+## Comandos
 
 | Comando | Descrição |
 |---------|-------------|
 | npm run build | Buildar o projeto |
 | npm start | Inicializar o projeto |
+O projeto por padrão é inicializado em [http://localhost:3000/](http://localhost:3000/)
+
 
 
 
