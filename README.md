@@ -65,4 +65,4 @@ true
 - [Firmata](https://www.arduino.cc/en/reference/firmata)
 
 ## Tutorial
-[YouTube](https://www.arduino.cc/en/reference/firmata)
+[YouTube](https://www.youtube.com/watch?v=FdjnkV8wWNc)
